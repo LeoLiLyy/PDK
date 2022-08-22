@@ -1,2 +1,2 @@
 # PDK
-PDK is a python module that'll help yo while you are writing code
+PDK is a python module that'll help you while you are writing code
